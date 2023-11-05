@@ -1,0 +1,7 @@
+C:\Users\ENES\source\repos\havadurumodev1\havadurumodev1\obj\Debug\havadurumodev1.csproj.AssemblyReference.cache
+C:\Users\ENES\source\repos\havadurumodev1\havadurumodev1\obj\Debug\havadurumodev1.csproj.CoreCompileInputs.cache
+C:\Users\ENES\source\repos\havadurumodev1\havadurumodev1\bin\Debug\havadurumodev1.exe.config
+C:\Users\ENES\source\repos\havadurumodev1\havadurumodev1\bin\Debug\havadurumodev1.exe
+C:\Users\ENES\source\repos\havadurumodev1\havadurumodev1\bin\Debug\havadurumodev1.pdb
+C:\Users\ENES\source\repos\havadurumodev1\havadurumodev1\obj\Debug\havadurumodev1.exe
+C:\Users\ENES\source\repos\havadurumodev1\havadurumodev1\obj\Debug\havadurumodev1.pdb
